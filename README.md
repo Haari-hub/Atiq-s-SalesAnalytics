@@ -1,6 +1,6 @@
 # 🛒 Sales Analytics in MySQL
 
-This project focuses on solving  real-world business problems using pure SQL queries (no dashboards or external tools) Atliq's sales dataset. It includes:
+This project focuses on solving real-world business problems using pure SQL queries on Atliq's sales dataset. It includes:
 
 - Sales, Customer, Product, Market, and Date analysis
 - Use of *views* *Joins* and *CTE's ,Window Functions*
